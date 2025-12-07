@@ -1,0 +1,5 @@
+{
+  "name": "Safety Report",
+  "description": "A comprehensive facility status reporting tool that gathers operational data (power, storage, safety, logistics) and generates formatted WhatsApp daily reports using Gemini AI.",
+  "requestFramePermissions": []
+}
